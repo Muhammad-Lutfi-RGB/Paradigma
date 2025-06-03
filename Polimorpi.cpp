@@ -16,3 +16,12 @@ class lia: public seseorang {
         cout << "pesan dari lia" << endl;
     }
 };
+
+
+int main() {
+    seseorang* obyek;
+    joko a;
+    lia b;
+
+
+}
